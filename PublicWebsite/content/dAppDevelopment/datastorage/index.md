@@ -5,7 +5,7 @@ draft: false
 weight: 8
 ---
 
-### This section still under contraction
+### This section still under construction
 
 In the meantime, here's some good material that'll get you started
 
